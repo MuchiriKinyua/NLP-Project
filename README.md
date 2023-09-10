@@ -1,5 +1,5 @@
 # Phase-4-NLP-Project
-x-logo-twitter-elon-musk_dezeen_2364_col_0-1-600x600
+![Twitter](https://github.com/MuchiriKinyua/Phase-4-NLP-Project/assets/113877377/76dae2d1-c639-47e1-963c-fe8abc5cb47b)
 # 1. Business Understanding
 ## 1.1 Business Description
 ## 1.2 Problem Statement
