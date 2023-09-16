@@ -9,8 +9,8 @@
 4. Data Modelling </br>
 5. Evaluation </br>
 6. Recommendations </br>
-7. Conclusions </br
-(8. Challenges)[#8.-Challenges]
+7. Conclusions </br>
+(8. Challenges)[#-8.-Challenges]
 # 1. Business Understanding
 In the competitive landscape of today's market, establishing a profound connection between products or services and the emotions of the target audience is a strategic imperative. Emotional branding offers the potential to cultivate brand loyalty, trust, and differentiation. </br>
 To harness the power of emotional branding, businesses must accurately gauge public sentiment towards their offerings, ensuring that the emotional connection aligns with their brand vision. By analyzing various sources of customer feedback, such as social media posts, sentiment analysis can determine whether the sentiment of the feedback is positive, negative, or neutral. </br>
