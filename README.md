@@ -1,7 +1,7 @@
 # Phase-4-NLP-Project
 ![Google Apple](https://github.com/MuchiriKinyua/Phase-4-NLP-Project/assets/113877377/92e62fe7-1a89-473a-b0dc-bab30bdf02d1)
-  [1 Business Understanding](#1.-Business-Understanding)
-  [1.1 Problem Statement](#1.1-Problem-Statement)
+* [1 Business Understanding](#1.-Business-Understanding)
+* [1.1 Problem Statement](#1.1-Problem-Statement)
 * [1.2 Main Objective](#1.2-Main-Objective)
 * [1.3 Specific Objectives](#1.3-Specific-Objectives)
 * [2. Notebook Structure](#2.-Notebook-Structure)
