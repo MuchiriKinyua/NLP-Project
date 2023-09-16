@@ -1,5 +1,5 @@
 # Phase-4-NLP-Project
-![Google Apple](https://github.com/MuchiriKinyua/Phase-4-NLP-Project/assets/113877377/92e62fe7-1a89-473a-b0dc-bab30bdf02d1)
+![Twitter sentiment](https://github.com/MuchiriKinyua/Phase-4-NLP-Project/assets/113877377/215ca231-0c1a-4fc8-85ae-5bcd9527a87d)
 # 1. Business Understanding
 In the competitive landscape of today's market, establishing a profound connection between products or services and the emotions of the target audience is a strategic imperative. Emotional branding offers the potential to cultivate brand loyalty, trust, and differentiation. </br>
 To harness the power of emotional branding, businesses must accurately gauge public sentiment towards their offerings, ensuring that the emotional connection aligns with their brand vision. By analyzing various sources of customer feedback, such as social media posts, sentiment analysis can determine whether the sentiment of the feedback is positive, negative, or neutral. </br>
