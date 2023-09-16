@@ -1,16 +1,5 @@
 # Phase-4-NLP-Project
 ![Google Apple](https://github.com/MuchiriKinyua/Phase-4-NLP-Project/assets/113877377/92e62fe7-1a89-473a-b0dc-bab30bdf02d1)
-(1. Business Understanding)[#1.-Business-Understanding] </br>
-1.1 Problem Statement </br>
-1.2 Main Objective </br>
-1.3 Specific Objectives </br>
-2. Notebook structure </br>
-3. Data Understanding </br>
-4. Data Modelling </br>
-5. Evaluation </br>
-6. Recommendations </br>
-7. Conclusions </br>
-(8. Challenges)[#-8.-Challenges]
 # 1. Business Understanding
 In the competitive landscape of today's market, establishing a profound connection between products or services and the emotions of the target audience is a strategic imperative. Emotional branding offers the potential to cultivate brand loyalty, trust, and differentiation. </br>
 To harness the power of emotional branding, businesses must accurately gauge public sentiment towards their offerings, ensuring that the emotional connection aligns with their brand vision. By analyzing various sources of customer feedback, such as social media posts, sentiment analysis can determine whether the sentiment of the feedback is positive, negative, or neutral. </br>
