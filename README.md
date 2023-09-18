@@ -1,4 +1,4 @@
-# crowdflower-brands-and-product-emotions project
+# crowdflower-brands-and-product-emotions NLP project
 ![Twitter sentiment](https://github.com/MuchiriKinyua/Phase-4-NLP-Project/assets/113877377/215ca231-0c1a-4fc8-85ae-5bcd9527a87d)
 # 1. Business Understanding
 In the competitive landscape of today's market, establishing a profound connection between products or services and the emotions of the target audience is a strategic imperative. Emotional branding offers the potential to cultivate brand loyalty, trust, and differentiation. </br>
